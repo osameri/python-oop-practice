@@ -1,6 +1,6 @@
 # Python OOP Practice
 
-Python exercises focused on object-oriented programming, written to refresh my oop knowledge as a part of a 30 day self structured study plan to prepare for professional Python develompent.
+Python exercises focused on object-oriented programming, written to refresh my oop knowledge as a part of a 30 day self structured study plan to prepare for professional Python development.
 
 ## Content:
 
@@ -9,9 +9,9 @@ Python exercises focused on object-oriented programming, written to refresh my o
 
 ## Concepts:
 
-- Classes, instances, and constructers
+- Classes, instances, and constructors
 - Inheritance
-- Duner methods
+- Dunder methods
 - Properties with validation
 - Static methods and class attributes
 - Custom decorators
